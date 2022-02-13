@@ -38,7 +38,7 @@ The final exercise 8 is related to precipitation but not to drought (a bit off-t
 ## Organisation
 
 ### Groups
-You can work in groups with 1 to 3 (max) students. Form groups in the Moodle course is [M-IE_2.02 Geoinformatics, WS2020/21](https://moodle.hochschule-rhein-waal.de/course/view.php?id=12408) if you have not done so yet.
+You can work in groups with 1 to 3 (max) students. Form groups in the Moodle course is [M-IE_2.02 Geoinformatics, WS2021/22](https://moodle.hochschule-rhein-waal.de/mod/choicegroup/view.php?id=337641) if you have not done so yet.
 
 ### Due Date
 The results of the given practical task shall be comprised of a scientific report. 
