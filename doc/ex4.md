@@ -1,13 +1,13 @@
 # Exercise 4: Calculate cumulative precipitation time series
 
 In this section you want to narrow down your area of study and concentrate on the counties Olpe (OE) and Hochsauerlandkreis (HSK). 
-You may have noticed the strong differences of SMI between OE and HSK for the months May and June 2017. 
-The SMI difference decreases in July, and in August the SMI become quite similar. How can you explain this?
+You may have noticed the differences of SMI between OE and HSK for the month of July 2018. 
+The SMI difference are not as big in May, June, and in August the SMI become quite similar. How can you explain this?
 Does it have something to do with precipitation events? 
 You will have to use the precipitation data offered by the German Weather Service (DWD) to find out.
 
 We would like to emphasize again that the monthly SMI data provided by the UFZ drought monitor are snapshots of actual values at the 16th of each month 
-(i.e. 2017-05-16, 2017-06-16, 2017-07-16, 2017-08-16). To investigate the influence of precipitation on SMI we look at the period from 2017-04-16 (one month before the first SMI map) until 2017-08-16 (the timestamp of last SMI map of interest). 
+(i.e. 2018-05-16, 2018-06-16, 2018-07-16, 2018-08-16). To investigate the influence of precipitation on SMI we look at the period from 2018-04-16 (one month before the first SMI map) until 2018-08-16 (the timestamp of last SMI map of interest). 
 
 ## Aggregate hourly precipitation rate to achieve daily precipitation rate
 
@@ -18,7 +18,7 @@ Start with an appropriate Jupyter notebook from the lecture to create a datafram
 You should generate two diagrams: 
 
 - A bar chart of the daily precipitation rates (mm/day) covering the four months of the study 
-(from 2017-04-16 until 2017-08-16) to identify interesting precipitation events
+(from 2018-04-16 until 2018-08-16) to identify interesting precipitation events
 - A line graph showing the cumulative precipitation for the same period.
 
 You should consider the following:
