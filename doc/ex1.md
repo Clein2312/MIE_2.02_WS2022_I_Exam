@@ -3,9 +3,9 @@
 This exercise helps you to locate the study area and to identify the
 information available in the region.
 You are interested in the distribution of weather stations that offer hourly precipitation
-data (in 2017) in the 13 counties selected for the study. Moreover, you want to include the topography (altitude)
+data (in 2018) in the 13 counties selected for the study. Moreover, you want to include the topography (altitude)
 of the counties of interest, in order to look at possible correlations between precipitation and terrain altitude.
-You should generate a map of the 13 counties of interest, the active precipitation stations (hourly values, active in 2017) within them, and 
+You should generate a map of the 13 counties of interest, the active precipitation stations (hourly values, active in 2018) within them, and 
 the Digital Terrain Model (DTM) of the region.
 
 ## Load the vector layers corresponding to the counties of interest
@@ -16,7 +16,7 @@ Open the vector layers in QGIS. And perform the geoprocessing steps required.
 
 ## Download and process DWD weather stations description file
 
-You should generate a point vector layer for QGIS containing the location of all active weather stations in the year 2017 which provide hourly precipitation data. This is already "historical" data. We performed similar tasks in the lecture. Find an appropriate notebook to start with. Change it to historical data. You can use the CSV import method for QGIS we discussed in the lecture or use Geopandas to create the vector layer directly. 
+You should generate a point vector layer for QGIS containing the location of all active weather stations in the year 2018 which provide hourly precipitation data. This is already "historical" data. We performed similar tasks in the lecture. Find an appropriate notebook to start with. Change it to historical data. You can use the CSV import method for QGIS we discussed in the lecture or use Geopandas to create the vector layer directly. 
 
 ## Download DTM data for the area of interest
 Given the spatial extent of the area of interest, you can use a lower resolution DTM for this
