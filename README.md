@@ -45,6 +45,8 @@ The results of the given practical task shall be comprised of a scientific repor
 You have to submit the assignment via Moodle latest by the **2022-03-31 at 23:59 CET** 
 (Central European Time Zone, German local time).
 
+A de-registration is only possible via e-mail and the **deadline to de-register is 2022-02-28**. You should e-mail the examination service ("pruefungsservice@hochschule-rhein-waal.de"), don't forget to include your matriculation number. 
+
 ### Files to Upload
 Each group has to upload one single archive 
 (such as zip, 7z or any other common archive format) 
