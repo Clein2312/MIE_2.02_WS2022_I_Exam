@@ -2,9 +2,9 @@
 
 Among other factors the soil moisture index (SMI) is influenced by precipitation. If you have ongoing evaporation from the soil and transpiration by the plants soil water is transported into the atmosphere. Without precipitation the soil moisture would deplete and the SMI would decline.
 
-To get an overview of the spatio-temporal precipitation development in the federal state of Nordrhein-Westfalen (NRW) create a video using the time manager plugin of QGIS. Show the precipitation dynamics for **all DWD stations in NRW with hourly precipitation measurements for the half open interval [2017-06-16T00:00:00Z, 2017-06-17T00:00:00Z)**. 
+To get an overview of the spatio-temporal precipitation development in the federal state of Nordrhein-Westfalen (NRW) create a video using the time manager plugin of QGIS. Show the precipitation dynamics for **all DWD stations in NRW with hourly precipitation measurements for the half open interval [2018-05-16T00:00:00Z, 2018-05-17T00:00:00Z)**. 
 
-The two SMI maps for month June and July are snapshots at 2017-06-16 and 2017-07-16, respectively. The step from June to July shows the strongest change of SMI during the total period analysed.
+The two SMI maps for month May and June are snapshots at 2018-05-16 and 2018-06-16, respectively. The step from May to June shows the strongest improvement of SMI during the total period analysed.
 
 ## QGIS TimeManager plugin
 
@@ -31,7 +31,7 @@ The Time Manager just selects features (i.e. stations with individual prec value
 
 ## Method 1: Use Python/Pandas
 
-We used this method in class. Download via FTP the station description file as well as the relevant time series. Perform a join (merge) and save the relation as CSV. Import it into QGIS and apply the TM. **You will find the notebooks to start with in the Git repository of the course**. You will have to adapt the notebooks to read hourly historical (2017) precipitation data.  
+We used this method in class. Download via FTP the station description file as well as the relevant time series. Perform a join (merge) and save the relation as CSV. Import it into QGIS and apply the TM. **You will find the notebooks to start with in the Git repository of the course**. You will have to adapt the notebooks to read hourly historical (2018) precipitation data.  
 
 Take care of the representation of the measurements in QGIS. Use appropiate mapping and color scales.
 
