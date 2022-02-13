@@ -20,9 +20,9 @@ The report will have the structure of a scientific report with a continuous narr
 
 The exercises are organized such that you can use their order to structure your report. Exercise 1 helps you to locate the area of study. You get an idea of the spatial distibution of climate stations with respect of the area of study in terms of longitude, latitude and altitude. 
 
-Then you start exploring the problem statement focussing on soil moisture. In Exercise 2 you will generate four maps displaying the change of soil moisture index (SMI) of the topsoil layer for the four sucessive months May, June, July, August 2017. 
+Then you start exploring the problem statement focussing on soil moisture. In Exercise 2 you will generate four maps displaying the change of soil moisture index (SMI) of the topsoil layer for the four sucessive months May, June, July, August 2018. 
 
-In Exercise 3 you will start exploring possible explanations for the SMI differences found by investigating the precipitation dynamics in NRW. You will produce a video with the QGIS TimeManager and try to determine the prevalent direction of moving rain fronts in June/July 2017.
+In Exercise 3 you will start exploring possible explanations for the SMI differences found by investigating the precipitation dynamics in NRW. You will produce a video with the QGIS TimeManager and try to determine the prevalent direction of moving rain fronts in May/June 2018.
 
 Afterwards, you will use Exercise 4 to reduce your study area, by analyzing the two counties Olpe and Hochsauerlankreis with strong differences in SMI development during the time period analyzed. 
 
@@ -42,7 +42,7 @@ You can work in groups with 1 to 3 (max) students. Form groups in the Moodle cou
 
 ### Due Date
 The results of the given practical task shall be comprised of a scientific report. 
-You have to submit the assignment via Moodle latest by the **2021-03-21 at 23:59 CET** 
+You have to submit the assignment via Moodle latest by the **2022-03-31 at 23:59 CET** 
 (Central European Time Zone, German local time).
 
 ### Files to Upload
