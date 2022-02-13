@@ -18,10 +18,9 @@ Open the vector layers in QGIS. And perform the geoprocessing steps required.
 
 You should generate a point vector layer for QGIS containing the location of all active weather stations in the year 2018 which provide hourly precipitation data. This is already "historical" data. We performed similar tasks in the lecture. Find an appropriate notebook to start with. Change it to historical data. You can use the CSV import method for QGIS we discussed in the lecture or use Geopandas to create the vector layer directly. 
 
-## Download DTM data for the area of interest
+## Load DTM data for the area of interest
 Given the spatial extent of the area of interest, you can use a lower resolution DTM for this
-part of the analysis. You can find the DTM for the region of NRW with 50m resolution following
-this link: https://data.opendataportal.at/dataset/dtm-germany/resource/c6aae7d1-c9dc-4e44-a9b2-10be2ed25dfe
+part of the analysis. You can find the DTM for the region of NRW with 50m resolution in the folder */data/original/DTM/*
 
 Find an appropiate color representation after loading it in QGIS. Find out how to improve the
 DTM representation e.g. give it some texture by generating a Hill Shade Model and overlaying it
