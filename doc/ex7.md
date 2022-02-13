@@ -1,6 +1,6 @@
 # Exercise 7: NDVI
 
-You want to assess if the strong changes observed in the SMI between April-/May-2017, and May-/June-2017 
+You want to assess if the strong changes observed in the SMI between May-/June-2018, and June-/July-2018 
 can also be appreciated by analysing the NDVI of a subset of areas of interest in the
 the county of Olpe.
 
@@ -20,18 +20,17 @@ Select only the polygons assigned to your team.
 Use the above mentioned CSV file with the polygon IDs for your group.
 
 ### Download Sentinel-2 multispectral imagery
-You have to analyze the period April-June of 2017 of the county of Olpe.
+You have to analyze the period May-August of 2018 of the county of Olpe.
 Put emphasis on your subset of ROIs. The land-use areas (polygons) of concern may encompass
 more than one NDVI pixel. Think about how to deal with it.
 
 You can retrieve Sentinel-2 data from here:
-https://scihub.copernicus.eu/
+https://services.sentinel-hub.com/
 
-In order to save you some time we have identified three appropiate sensing
+In order to save you some time we have identified some appropiate sensing
 dates with low cloud coverage:
-**(a) 2017-05-10, (b) 2017-06-19, (c) 2017-07-19.**
-Download and store the images in an appropiate folder. Make sure that the Sentinel 
-product you use is processed up to level-2A Bottom of Atmosphere (BOA) reflectance. 
+**(a) 2018-05-08, (b) 2018-05-28, (c) 2018-06-27, (d) 2018-06-29, (e) 2018-07-27, (f) 2018-08-18.**
+Select three out of them. They are located in the folder */data/original/Sentinel/*. The tiles provided are processed up to level-2A Bottom of Atmosphere (BOA) reflectance. 
 
 ### Analyse the data and compare
 Are there interesting changes in NDVI in your ROIs? 
