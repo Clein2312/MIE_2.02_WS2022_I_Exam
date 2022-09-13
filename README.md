@@ -1,4 +1,4 @@
-# MIE_2.02_WS2021_II_Exam
+# MIE_2.02_WS2022_I_Exam
 Overview of exercises guiding your investigation:
 
 * [Exercise 1](doc/ex1.md) Generate a map of the main investigation area.
@@ -38,14 +38,14 @@ The final exercise 8 is related to precipitation but not to drought (a bit off-t
 ## Organisation
 
 ### Groups
-You can work in groups with 1 to 3 (max) students. Form groups in the Moodle course is [M-IE_2.02 Geoinformatics, WS2021/22](https://moodle.hochschule-rhein-waal.de/mod/choicegroup/view.php?id=337641) if you have not done so yet.
+You can work in groups with 1 to 3 (max) students. Form groups in the Moodle course is [M-IE_2.02 Geoinformatics, WS2022/23_1, Exam only!](https://moodle.hochschule-rhein-waal.de/course/view.php?id=15864) if you have not done so yet.
 
 ### Due Date
 The results of the given practical task shall be comprised of a scientific report. 
-You have to submit the assignment via Moodle latest by the **2022-03-31 at 23:59 CET** 
+You have to submit the assignment via Moodle latest by the **2022-10-16 at 23:59 CET** 
 (Central European Time Zone, German local time).
 
-A de-registration is only possible via e-mail and the **deadline to de-register is 2022-02-28**. You should e-mail the examination service ("pruefungsservice@hochschule-rhein-waal.de"), don't forget to include your matriculation number. 
+A de-registration is only possible via e-mail and the **deadline to de-register is 2022-10-14**. You should e-mail the examination service ("pruefungsservice@hochschule-rhein-waal.de"), don't forget to include your matriculation number. 
 
 ### Files to Upload
 Each group has to upload one single archive 
