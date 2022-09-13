@@ -3,7 +3,7 @@
 A new industrial facility with two buildings is planned in the county of Olpe. 
 The water raining on the roof of the buildings has to be drained. 
 To plan the drainage system you have to determine the total amount of water collected by the roofs in the 
-four months May to August 2017. Assume that the annual precipitation sum is approximately 3 x the 
+four months May to August 2018. Assume that the annual precipitation sum is approximately 3 x the 
 precipitation sum over the four months. 
 
 Unfortunately you just have a bad photography (a screenshot taken with a camera :-) ) of the roof plan. You have to georeference and 
@@ -20,7 +20,7 @@ DWD stations. The simplest way would be the method of nearest neighbor.
 A more sophisticated method is that of a linear estimator with weights proportional 
 to inverse distances between the location of interest and the precipitation stations around. 
 Find out how the inverse distance interpolation works and determine the annual cumulative precipitation at the location of the 
-new buildings as well as the total rain water volume collected by their roofs during 2017. 
+new buildings as well as the total rain water volume collected by their roofs during 2018. 
 
 How much water do you have to drain? 
 
