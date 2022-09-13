@@ -48,7 +48,7 @@ resulting georeferenced layer.
 ## Interpolate cumulative precipitation
 QGIS has different tools for interpolation. We suggest both nearest neighbors and inverse weight distances. Compare the results of these two inperpolation methods for your case.
 Find out how to make it work with your data. You should estimate the total rain water volume collected by both roofs 
-during 2017. Assume that the annual precipitation sum is approximately 3 x the 
+during 2018. Assume that the annual precipitation sum is approximately 3 x the 
 precipitation sum over the four months.  
 
 ## Discuss your findings
